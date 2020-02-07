@@ -1,6 +1,6 @@
 Ecommerce Customer - Example Case
 
-using Python and Scikit-learn to apply linear regression to a fictional case:
+using Python and Scikit-learn to apply linear regression to a fictional use case:
 
 - contract work with an Ecommerce company based in New York City
 - company sells clothing online but they also have in-store style and clothing advice sessions
